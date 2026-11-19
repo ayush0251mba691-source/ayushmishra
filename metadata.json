@@ -1,0 +1,6 @@
+{
+  "name": "Fresh Box",
+  "description": "Student-focused affordable, hygienic and reliable meal service with flexible daily and monthly plans for DGU hostel students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
